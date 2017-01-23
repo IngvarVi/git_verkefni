@@ -1,2 +1,8 @@
 #Git spurningar og svör
 
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd er change directory, þú notar það til þess að breyta hver þú ert.
+	cd ~ færir mann í heimdrif sitt.
+	ls stendur fyrir list og það birtir lista yfir möppum og skrám þar sem þú ert.
+	pwd stendur fyrir print working directory, það birtir möppuna sem þú ert að vinna í.
+	mkdir stendur fyrir make directory, það er notað til þess að búa til nýja möppu.
