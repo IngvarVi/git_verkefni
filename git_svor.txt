@@ -12,3 +12,7 @@
 	git log er notað til þess að fá skrá yfir breytingum
 	git status birtir skrár sem þú hefur breytt og þær sem þú átt eftir að bæta við í
 	git diff birtir muninn á þeim skrám sem þú ert að reyna að sameina
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff 
+	b) git diff --staged 
+	c) git diff commit1 commit2
