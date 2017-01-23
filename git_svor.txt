@@ -26,3 +26,6 @@
 
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 	Hversu oft það ætti að gera commit í verkefni fer eftir hvort það sé einhver annar að fara yfir það. Það er auðveldara að fara yfir verkefnið ef þú notar commit oft og á góðan hátt. Það lítur betur út. Það er kannski ekki jafn mikilvægt þegar þú ert að vinna í einhverju sem engin mun fara yfir eða mun aldrei vera notað.
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+	Working directory er staðsetningin sem þú ert að vinna í. Staging area er bara staður þar sem þú ræður hvaða breytingar verða að raunveruleika. Repository er bara geymsla fyrir öll gögnin þín.
