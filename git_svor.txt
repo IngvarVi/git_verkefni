@@ -6,3 +6,9 @@
 	ls stendur fyrir list og það birtir lista yfir möppum og skrám þar sem þú ert.
 	pwd stendur fyrir print working directory, það birtir möppuna sem þú ert að vinna í.
 	mkdir stendur fyrir make directory, það er notað til þess að búa til nýja möppu.
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone /staðsetning/möppu er notað til þess að gera afrit af möppu.
+	git log er notað til þess að fá skrá yfir breytingum
+	git status birtir skrár sem þú hefur breytt og þær sem þú átt eftir að bæta við í
+	git diff birtir muninn á þeim skrám sem þú ert að reyna að sameina
