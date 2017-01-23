@@ -20,3 +20,6 @@
 
 4. 	Hvað er útgáfustýring (e.version control)? 
 	útgáfustýring er kerfi sem skráir breytingar af skrám yfir tíma svo þú getur sótt tilbaka sérstakar útgáfur seinna.
+
+5.	Hverjir eru helstu kostir við að nota GIT?
+	Kostir GITs eru það að GIT virkar mjög hratt. Það er auðvelt að búa til geymslur. Geymslur eru geymdar í bara einni möppu, það er ekki bætt við .svn möppu í hverja einustu möppu sem er í kóðanum þínum. Það er auðvelt að "branch"-a. Er gert fyrir GitHub sem er bara yndislegt.
