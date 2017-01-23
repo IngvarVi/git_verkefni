@@ -13,7 +13,6 @@
 	git status birtir skrár sem þú hefur breytt og þær sem þú átt eftir að bæta við í
 	git diff birtir muninn á þeim skrám sem þú ert að reyna að sameina
 3. Hver er munurinn á eftirfarandi git skipunum:
-	a) git diff 
-	b) git diff --staged 
-	c) git diff commit1 commit2
-4. 	Hvað er útgáfustýring (e.version control)? 
+	a) birtir allar sameiningar árekstur
+	b) birtir allan árekstur á grunn skrá
+	c) birtir breytingar áður en þú sameinar
