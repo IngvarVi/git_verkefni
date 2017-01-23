@@ -12,7 +12,11 @@
 	git log er notað til þess að fá skrá yfir breytingum
 	git status birtir skrár sem þú hefur breytt og þær sem þú átt eftir að bæta við í
 	git diff birtir muninn á þeim skrám sem þú ert að reyna að sameina
+
 3. Hver er munurinn á eftirfarandi git skipunum:
 	a) birtir allar sameiningar árekstur
 	b) birtir allan árekstur á grunn skrá
 	c) birtir breytingar áður en þú sameinar
+
+4. 	Hvað er útgáfustýring (e.version control)? 
+	útgáfustýring er kerfi sem skráir breytingar af skrám yfir tíma svo þú getur sótt tilbaka sérstakar útgáfur seinna.
