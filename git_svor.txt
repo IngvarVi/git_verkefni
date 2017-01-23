@@ -35,3 +35,6 @@
 
 9.	Hver fann upp GIT?
 	Linus Torvalds
+
+10.	Hvar er GIT helst notað?
+	Þeir sem ég hef séð nota GIT eru aðalega forritarar. Þeir nota það ásamt GitHub til þess að geyma kóða sinn og prufa hann.
