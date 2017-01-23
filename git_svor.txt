@@ -23,3 +23,6 @@
 
 5.	Hverjir eru helstu kostir við að nota GIT?
 	Kostir GITs eru það að GIT virkar mjög hratt. Það er auðvelt að búa til geymslur. Geymslur eru geymdar í bara einni möppu, það er ekki bætt við .svn möppu í hverja einustu möppu sem er í kóðanum þínum. Það er auðvelt að "branch"-a. Er gert fyrir GitHub sem er bara yndislegt.
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+	Hversu oft það ætti að gera commit í verkefni fer eftir hvort það sé einhver annar að fara yfir það. Það er auðveldara að fara yfir verkefnið ef þú notar commit oft og á góðan hátt. Það lítur betur út. Það er kannski ekki jafn mikilvægt þegar þú ert að vinna í einhverju sem engin mun fara yfir eða mun aldrei vera notað.
